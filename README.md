@@ -289,6 +289,7 @@ for t in server/tests/test_*.py; do python "$t" || break; done
 - **[docs/amiga-client.md](docs/amiga-client.md)** — recovered Amiga client analysis / reconstruction record
 - **[docs/amiga-modern-ux.md](docs/amiga-modern-ux.md)** — Modern-UX proposal for the Amiga client
 - **[docs/historical/](docs/historical/)** — Retired investigation notes and completed implementation plans
+- **[docs/talks/](docs/talks/README.md)** — Presentations about the project (decks as presented, plus PDF)
 
 ### Historical
 
